@@ -36,12 +36,12 @@
 ![zombie](bgfar1.png "背景圖")
 ![zombie](bgnear2.png "背景圖")
 2. 黃嘉貞
-![zombie](1.png "怪物")
-![zombie](2.png "怪物")
-![zombie](3.png "怪物")
-![zombie](4.png "怪物")
+#### ![zombie](1.png "怪物")
+#### ![zombie](2.png "怪物")
+#### ![zombie](3.png "怪物")
+#### ![zombie](4.png "怪物")
 3. 劉芊華
-![zombie](RUNNER.gif "怪物")
+#### ![zombie](RUNNER.gif "怪物")
 
 ### 程式分配：主要參考範例 CH.11
 
